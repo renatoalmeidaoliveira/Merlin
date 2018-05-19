@@ -1,0 +1,8 @@
+run_erl [5130] Thu May  3 22:39:00 2018
+Args before exec of shell:
+run_erl [5130] Thu May  3 22:39:00 2018
+argv[0] = sh
+run_erl [5130] Thu May  3 22:39:00 2018
+argv[1] = -c
+run_erl [5130] Thu May  3 22:39:00 2018
+argv[2] = exec "/home/renato/chatbot/_build/dev/rel/chatbot/bin/chatbot" "console" --  
