@@ -3,7 +3,8 @@
 		"ip": "10.67.15.249",
 		"groups" :[ {
 			"name" : "Teste",
-			"outgoingToken" : "sgwaq7f6sjrc7q8aeqsxr11hrr"
+			"outgoingToken" : "sgwaq7f6sjrc7q8aeqsxr11hrr",
+			"incomingToken" : "bckobw4ccbruif4ggmhxm3orke"
 		}]
 	}
 }
